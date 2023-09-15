@@ -22,7 +22,7 @@ Funding:	Total amount raised across all funding rounds in billions (B) or millio
 Select Investors:	Top 4 investing firms or individual investors (some have less than 4)  
 
 ## Skills Used
-Joins: Combining multiple tables based on shared columns.  
+ 
 CTEs (Common Table Expressions): Creating temporary result sets for complex queries.   
 Temporary Tables: Storing intermediate results for further analysis.  
 Window Functions: Performing calculations over specific result sets.  
