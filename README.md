@@ -50,6 +50,17 @@ Converting Data Types: Changing the data type of specific columns.
 8.	Validated Date and Time Values:  
   a.	Ensured that date and time values are valid and follow the correct format.  
 9.	Performed Data Imputation:  
-  a.	Imputed missing values based on statistical methods or domain knowledge.  
+  a.	Imputed missing values based on statistical methods or domain knowledge.
+
+### After exploratory data analysis with SQL, I found the following insights…
+1.	The oldest Company to cross $1 billion evaluation was Otto Bock HealthCare founded in 1919, and crossed $1 billion in 2017.
+2.	It turns out that Otto Bock HealthCare took 98 years to cross the $1 billion mark, longest ever recorded.
+3.	Top 3 companies with highest valuation are Bytedance ($180B), SpaceX ($100B), SHEIN ($100B).
+4.	223 companies were alone from FINTECH industry which was the highest followed by Internet software & services having 205 companies, E-commerce & direct-to-consumer having 110 companies and so on…
+5.	Top 3 countries having highest number of unicorn companies are USA (560), China (173) and India (65).
+6.	Top 3 Continents having highest number of unicorn companies are North America (587), Asia (310) and Europe (143).
+7.	San Francisco comes out as the Unicorn Industry hub of the world having 151 companies followed by New York, Beijing, Shanghai and so on.
+8.	India has 65 companies listed as unicorn, with Byju’s leading the pack having a valuation $22B.
+
 
 
