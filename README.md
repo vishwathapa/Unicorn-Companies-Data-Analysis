@@ -1,5 +1,5 @@
 # Unicorn-Companies-Data-Analysis
-Data Analysis Using SQL and Python.
+Data cleaning and nalysis Using SQL.
 
 ## Introduction
 In this venture, I will be taking you on a journey through the fascinating realm of unicorn startups – those extraordinary companies valued at over $1 billion.
