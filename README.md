@@ -36,7 +36,7 @@ Converting Data Types: Changing the data type of specific columns.
   a.	Used SQL queries to identify rows with missing values (NULL) in specific columns.  
   b.	Decided how to handle missing data, which may include filling in missing values with defaults, interpolating values, or removing rows with missing data.  
 2.	Removed Duplicates:  
-  a.	Used SQL to find and remove duplicate rows in your dataset, as discussed in the previous response.  
+  a.	Used SQL to find and remove duplicate rows in your dataset.  
 3.	Standardized Data Formats:  
   a.	Ensure that data is in a consistent format.    
 4.	Corrected Data Inconsistencies:  
